@@ -52,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712020745660</updated>
-      <workItem from="1712020746677" duration="3115000" />
+      <workItem from="1712020746677" duration="3417000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Adapter&quot;">
       <option name="closed" value="true" />
@@ -62,13 +62,30 @@
       <option name="project" value="LOCAL" />
       <updated>1712025546903</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;Adapter&quot;">
+      <option name="closed" value="true" />
+      <created>1712025630054</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712025630054</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;Adapter&quot;">
+      <option name="closed" value="true" />
+      <created>1712025845235</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712025845235</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Adapter 2&quot;" />
     <MESSAGE value="&quot;Adapter&quot;" />
     <option name="LAST_COMMIT_MESSAGE" value="&quot;Adapter&quot;" />
   </component>

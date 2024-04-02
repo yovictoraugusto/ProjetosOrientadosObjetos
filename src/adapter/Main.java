@@ -14,7 +14,6 @@ public class Main {
         rb.setBottomRight(c1);
 
 
-
 //        Shape s = new Shape();
 //        s.x = 5;
 //
